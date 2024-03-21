@@ -137,7 +137,7 @@ $ ps
 
 Hasil Output
 
-![App Screenshot](img/coba1-1.png)
+![App Screenshot](img/coba1/coba1-1.png)
 
 Analisa
 
@@ -159,7 +159,7 @@ Analisa
 
    Hasil Output
 
-   ![App Screenshot](img/coba1-2.png)
+   ![App Screenshot](img/coba1/coba1-2.png)
 
    Analisa
 
@@ -177,7 +177,7 @@ Analisa
 
    Hasil Output
 
-   ![App Screenshot](img/coba1-3.png)
+   ![App Screenshot](img/coba1/coba1-3.png)
 
    Analisa
 
@@ -196,7 +196,7 @@ Analisa
 
 Hasil Output
 
-![App Screenshot](img/coba2-1.png)
+![App Screenshot](img/coba2/coba2-1.png)
 
 Analisa
 
@@ -213,7 +213,7 @@ Analisa
 
 Hasil Output
 
-![App Screenshot](img/coba2-2.png)
+![App Screenshot](img/coba2/coba2-2.png)
 
 Analisa
 
@@ -230,7 +230,7 @@ Analisa
 
 Hasil Output
 
-![App Screenshot](img/coba2-3.png)
+![App Screenshot](img/coba2/coba2-3.png)
 
 Analisa
 
@@ -250,7 +250,7 @@ Analisa
 
 Hasil Output
 
-![App Screenshot](img/coba2-4.png)
+![App Screenshot](img/coba2/coba2-4.png)
 
 Analisa
 
@@ -268,7 +268,7 @@ $ cat baru
 
 Hasil Output
 
-![App Screenshot](img/coba2-5.png)
+![App Screenshot](img/coba2/coba2-5.png)
 
 Analisa
 
@@ -289,7 +289,7 @@ $ cat surat
 
 Hasil Output
 
-![App Screenshot](img/coba2-6.png)
+![App Screenshot](img/coba2/coba2-6.png)
 
 Analisa
 
@@ -313,7 +313,7 @@ Ok!
 
 Hasil Output
 
-![App Screenshot](img/coba2-7.png)
+![App Screenshot](img/coba2/coba2-7.png)
 
 Analisa
 
@@ -329,7 +329,7 @@ $ cat myfile.txt – surat
 
 Hasil Output
 
-![App Screenshot](img/coba2-8.png)
+![App Screenshot](img/coba2/coba2-8.png)
 
 Analisa
 
@@ -354,9 +354,9 @@ $ ls –l /etc | sort | more
 
 Hasil Output
 
-![App Screenshot](img/coba3-1.png)
+![App Screenshot](img/coba3/coba3-1.png)
 
-![App Screenshot](img/coba3-2.png)
+![App Screenshot](img/coba3/coba3-2.png)
 
 Analisa
 
@@ -374,7 +374,7 @@ $ cat output
 
 Hasil Output
 
-![App Screenshot](img/coba3-3.png)
+![App Screenshot](img/coba3/coba3-3.png)
 
 Analisa
 
@@ -390,7 +390,7 @@ $ cat output
 
 Hasil Output
 
-![App Screenshot](img/coba3-4.png)
+![App Screenshot](img/coba3/coba3-4.png)
 
 Analisa
 
@@ -405,7 +405,7 @@ $ cat < output
 
 Hasil Output
 
-![App Screenshot](img/coba3-5.png)
+![App Screenshot](img/coba3/coba3-5.png)
 
 Analisa
 
@@ -429,7 +429,7 @@ $ cat out
 
 Hasil Output
 
-![App Screenshot](img/coba3-6.png)
+![App Screenshot](img/coba3/coba3-6.png)
 
 Analisa
 
@@ -466,7 +466,7 @@ Meskipun pembelokan standar input dan output dapat digabungkan, nama file tidak 
 
 Hasil Output
 
-![App Screenshot](img/coba4-1.png)
+![App Screenshot](img/coba4/coba4-1.png)
 
 ## LATIHAN:
 
@@ -474,7 +474,7 @@ Hasil Output
 
 Hasil Output
 
-![App Screenshot](img/latihan1-1.png)
+![App Screenshot](img/latihan/latih1-1.png)
 
 Analisa
 
@@ -483,7 +483,7 @@ Perintah pertama yang digunakan dalam latihan ini adalah `ls`, yang menampilkan 
 2. Lihat daftar secara lengkap pada direktori /etc/passwd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.
    Hasil Output
 
-   ![App Screenshot](img/latihan1-2.png)
+   ![App Screenshot](img/latihan/latih1-2.png)
 
    Analisa
 
@@ -492,7 +492,7 @@ Perintah pertama yang digunakan dalam latihan ini adalah `ls`, yang menampilkan 
 3. Urutkan file baru dengan cara membelokkan standard input.
    Hasil Output
 
-   ![App Screenshot](img/latihan1-3.png)
+   ![App Screenshot](img/latihan/latih1-3.png)
 
    Analisa
 
@@ -501,7 +501,7 @@ Perintah pertama yang digunakan dalam latihan ini adalah `ls`, yang menampilkan 
 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut.
    Hasil Output
 
-   ![App Screenshot](img/latihan1-4.png)
+   ![App Screenshot](img/latihan/latih1-4.png)
 
    Analisa
 
@@ -511,7 +511,7 @@ Perintah pertama yang digunakan dalam latihan ini adalah `ls`, yang menampilkan 
 
    Hasil Output
 
-   ![App Screenshot](img/latihan1-5.png)
+   ![App Screenshot](img/latihan/latih1-5.png)
 
    Analisa
 
@@ -532,7 +532,7 @@ Perintah pertama yang digunakan dalam latihan ini adalah `ls`, yang menampilkan 
 
    Hasil Output
 
-   ![App Screenshot](img/latihan1-6.png)
+   ![App Screenshot](img/latihan/latih1-6.png)
 
    Analisa
 
@@ -541,7 +541,7 @@ Perintah pertama yang digunakan dalam latihan ini adalah `ls`, yang menampilkan 
 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru.
    Hasil Output
 
-   ![App Screenshot](img/latihan1-7.png)
+   ![App Screenshot](img/latihan/latih1-7.png)
 
    Analisa
 
@@ -564,7 +564,7 @@ Perintah pertama yang digunakan dalam latihan ini adalah `ls`, yang menampilkan 
 
 Hasil Output
 
-![App Screenshot](img/latihan1-8.png)
+![App Screenshot](img/latihan/latih1-8.png)
 
 Analisa
 
